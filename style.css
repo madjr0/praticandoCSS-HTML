@@ -139,3 +139,15 @@ body {
     text-align: center;
     margin: 5em 3em;
 }
+
+.rodape__logo {
+    margin-bottom: 2em;
+}
+
+.lista__link a:hover {
+    color: var(--botao-azul);
+}
+
+.lista__link a:visited {
+    color: purple;
+}
